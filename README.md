@@ -16,6 +16,6 @@ Spent some time making the UI work across multiple phone resolutions by playing 
 
 Walkthrough of all user stories:
 
-Video Walkthrough
+![Video Walkthrough](TipCalculator.gif)
 
-GIF created with LiceCap.k
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
