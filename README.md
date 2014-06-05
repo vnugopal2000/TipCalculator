@@ -11,8 +11,11 @@ Time spent: 3 hours spent in total
 Completed user stories:
 
 Notes:
-
-Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout.
+1. Basic Tip calculator funtionality
+2. Settings button action, Settings View
+3. Optional : WIP setting page interaction with Tipcontroller view page
+4. 
+Spent some time making the resolving simulator crash issue
 
 Walkthrough of all user stories:
 
